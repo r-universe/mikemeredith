@@ -1,0 +1,26 @@
+[
+  {
+    "package": "AHMbook",
+    "oncran": true
+  },
+  {
+    "package": "BEST",
+    "oncran": true
+  },
+  {
+    "package": "IPMbook",
+    "oncran": true
+  },
+  {
+    "package": "mcmcOutput",
+    "oncran": true
+  },
+  {
+    "package": "overlap",
+    "oncran": true
+  },
+  {
+    "package": "wiqid",
+    "oncran": true
+  }
+]
