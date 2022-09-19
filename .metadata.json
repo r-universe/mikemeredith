@@ -12,10 +12,6 @@
     "oncran": true
   },
   {
-    "package": "mcmcOutput",
-    "oncran": true
-  },
-  {
     "package": "overlap",
     "oncran": true
   },
