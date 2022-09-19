@@ -18,6 +18,11 @@
 	url = https://github.com/mikemeredith/ipmbook
 	shallow = true
 	registered = true
+[submodule "mcmcOutput"]
+	path = mcmcOutput
+	url = https://github.com/mikemeredith/mcmcoutput
+	shallow = true
+	registered = true
 [submodule "overlap"]
 	path = overlap
 	url = https://github.com/mikemeredith/overlap
