@@ -18,5 +18,9 @@
   {
     "package": "overlap",
     "oncran": true
+  },
+  {
+    "package": "wiqid",
+    "oncran": true
   }
 ]
