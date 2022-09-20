@@ -28,8 +28,3 @@
 	url = https://github.com/mikemeredith/overlap
 	shallow = true
 	registered = true
-[submodule "wiqid"]
-	path = wiqid
-	url = https://github.com/mikemeredith/wiqid
-	shallow = true
-	registered = true
