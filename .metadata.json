@@ -8,10 +8,6 @@
     "oncran": true
   },
   {
-    "package": "IPMbook",
-    "oncran": true
-  },
-  {
     "package": "mcmcOutput",
     "oncran": true
   },

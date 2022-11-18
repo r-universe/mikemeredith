@@ -13,11 +13,6 @@
 	url = https://github.com/mikemeredith/best
 	shallow = true
 	registered = true
-[submodule "IPMbook"]
-	path = IPMbook
-	url = https://github.com/mikemeredith/ipmbook
-	shallow = true
-	registered = true
 [submodule "mcmcOutput"]
 	path = mcmcOutput
 	url = https://github.com/mikemeredith/mcmcoutput
