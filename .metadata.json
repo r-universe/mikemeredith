@@ -1,6 +1,10 @@
 [
   {
-    "package": "wiqid",
+    "package": "AHMbook",
+    "oncran": true
+  },
+  {
+    "package": "BEST",
     "oncran": true
   },
   {
@@ -12,11 +16,7 @@
     "oncran": true
   },
   {
-    "package": "BEST",
-    "oncran": true
-  },
-  {
-    "package": "AHMbook",
+    "package": "wiqid",
     "oncran": true
   }
 ]
