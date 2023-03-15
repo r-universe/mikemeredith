@@ -3,14 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "AHMbook"]
-	path = AHMbook
-	url = https://github.com/mikemeredith/ahmbook
-	shallow = true
-	registered = true
-[submodule "BEST"]
-	path = BEST
-	url = https://github.com/mikemeredith/best
+[submodule "wiqid"]
+	path = wiqid
+	url = https://github.com/mikemeredith/wiqid
 	shallow = true
 	registered = true
 [submodule "mcmcOutput"]
@@ -23,8 +18,13 @@
 	url = https://github.com/mikemeredith/overlap
 	shallow = true
 	registered = true
-[submodule "wiqid"]
-	path = wiqid
-	url = https://github.com/mikemeredith/wiqid
+[submodule "BEST"]
+	path = BEST
+	url = https://github.com/mikemeredith/best
+	shallow = true
+	registered = true
+[submodule "AHMbook"]
+	path = AHMbook
+	url = https://github.com/mikemeredith/ahmbook
 	shallow = true
 	registered = true
