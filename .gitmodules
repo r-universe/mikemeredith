@@ -2,12 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "mcmcOutput"]
-	path = mcmcOutput
-	url = https://github.com/mikemeredith/mcmcoutput
 [submodule "overlap"]
 	path = overlap
 	url = https://github.com/mikemeredith/overlap
-[submodule "wiqid"]
-	path = wiqid
-	url = https://github.com/mikemeredith/wiqid
